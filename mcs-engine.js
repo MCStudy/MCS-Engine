@@ -456,7 +456,7 @@ this.LEFT_ARROW = false;   //37
 this.RIGHT_ARROW = false;  //39
 this.UP_ARROW = false;     //38
 
-document.body.addEventListener("keydown",function(){
+document.body.addEventListener("keydown",function(event){
   switch(event.keyCode){
     case 37: LEFT_ARROW = true; RIGHT_ARROW = false; break;
     case 38: UP_ARROW = true; break;
@@ -465,7 +465,7 @@ document.body.addEventListener("keydown",function(){
   }
 });
 
-document.body.addEventListener("keyup",function(){
+document.body.addEventListener("keyup",function(event){
   switch(event.keyCode){
     case 37: LEFT_ARROW = false; break;
     case 38: break;
