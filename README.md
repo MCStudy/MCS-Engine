@@ -1,6 +1,6 @@
 # MCS-Engine
 Mini html5 Canvas Sprite game Engine  
-used : http://nupa.xyz/p/fts/game.html
+used : http://nupamore.github.io/fts
 
 ---
 ## Sprite()
