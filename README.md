@@ -1,6 +1,6 @@
 # MCS-Engine
 Mini html5 Canvas Sprite game Engine  
-used : http://cjsstk.github.io/findTheSun
+used : http://nupamore.github.io/findTheSun
 
 ---
 ## Sprite()
